@@ -18,9 +18,9 @@ This Django application allows users to participate in auctions, place bids, and
 
 ### Building and Running
 
-1. Clone the repository to your local machine:
+1.Clone the repository to your local machine:
 
-       git clone https://github.com/areddysathvik/AuctionApp.git
+    git clone https://github.com/areddysathvik/AuctionApp.git
 
 2.Navigate to the project directory:
 
