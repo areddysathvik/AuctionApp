@@ -2,6 +2,10 @@
 
 This Django application allows users to participate in auctions, place bids, and manage their profiles. The application also includes an admin section for managing auction items and user authentication.
 
+[Watch a demo video](https://clipchamp.com/watch/atqRaD5Nykt)
+
+
+
 # Features Implemented
 
 - User CRUD operations.
